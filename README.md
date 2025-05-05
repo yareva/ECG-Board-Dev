@@ -14,8 +14,9 @@ As a Software Engineering student passionate about bridging hardware and softwar
 
 ##  Next Steps
 
-- Connect the ECG board to a Raspberry Pi or similar microcontroller.
+- Connect the ECG board to a Raspberry Pi.
 - 📈 Develop a software interface to simulate a patient chart, display real-time heart signals, and record data.
+- 🖥️ Purchase and integrate a dedicated screen to display the live heartbeat dashboard directly from the Raspberry Pi.
 - Apply AI/ML models to detect trends or anomalies in ECG patterns for early disease prediction.
 
 ## 🎯 Future Goals
