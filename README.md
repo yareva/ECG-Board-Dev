@@ -21,7 +21,7 @@ Building a Raspberry Pi-based health dashboard that integrates:
 - **Hardware**: Raspberry Pi 5, Custom ECG Board, MCP3008 ADC
 - **Backend**: Python, Flask, PostgreSQL
 - **Frontend**: React, Chart.js
-- **ML/AI**: TensorFlow, scikit-learn (planned)
+- **ML/AI**: TensorFlow, scikit-learn 
 - **IoT**: MQTT, Withings API
 
 ## Features (Planned)
