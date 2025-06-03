@@ -14,7 +14,7 @@ Building a Raspberry Pi-based health dashboard that integrates:
 
 ✅ **Completed**: ECG board soldering and testing  
 🔄 **In Progress**: Raspberry Pi integration and dashboard development  
-📋 **Next Steps**: API integration, ML models, touchscreen display
+📋 **Next Steps**: API integration and ML models
 
 ## Tech Stack
 
