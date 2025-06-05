@@ -1,4 +1,4 @@
-# 🛠️ ECG Board Assembly Notes
+# 🛠️ ECG-Board Assembly Notes
 
 ## Overview
 
@@ -23,4 +23,4 @@ This board was assembled as part of a hands-on project to understand analog sign
 
 - Connect the output to a Raspberry Pi using an MCP3008 ADC.
 - Begin capturing and plotting ECG signals digitally.
-- Expand this into a live patient dashboard with optional AI-based trend detection.
+- Expand and create this into a live patient dashboard with optional AI-based trend detection.
