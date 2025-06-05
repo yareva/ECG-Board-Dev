@@ -1,29 +1,41 @@
 # 🩺 ECG-Board-Dev
 
-This project focuses on building and enhancing an Electrocardiogram (ECG) board and integrating it with software applications for real-world use cases.
+An IoT health monitoring system that combines a custom ECG board with blood pressure monitoring and AI/ML analysis for home healthcare. *Currently in development.*
 
 ## Overview
 
-As a Software Engineering student passionate about bridging hardware and software, I soldered and assembled a fully functional ECG amplifier board. The board captures real ECG signals using basic electrode inputs and filters out noise with onboard analog circuitry.
+Building a Raspberry Pi-based health dashboard that integrates:
+- Custom-built ECG board
+- Blood pressure monitoring (via Withings API)  
+- Real-time data visualization
+- Machine learning for health insights
 
-##  What I Have Done So Far
+## Current Status
 
--  Completed full PCB soldering and assembly based on provided schematics.
--  Successfully tested basic ECG signal output and noise filtering (using 60Hz notch filter and low-pass filters).
--  Verified operation through LED beat indicators and oscilloscope waveform readings.
+✅ **Completed**: ECG board soldering and testing  
+🔄 **In Progress**: Raspberry Pi integration and dashboard development  
+📋 **Next Steps**: API integration and ML models
 
-##  Next Steps
+## Tech Stack
 
-- Connect the ECG board to a Raspberry Pi or similar microcontroller.
-- 📈 Develop a software interface to simulate a patient chart, display real-time heart signals, and record data.
-- Apply AI/ML models to detect trends or anomalies in ECG patterns for early disease prediction.
+- **Hardware**: Raspberry Pi 5, Custom ECG Board, MCP3008 ADC
+- **Backend**: Python, Flask, PostgreSQL
+- **Frontend**: React, Chart.js
+- **ML/AI**: TensorFlow, scikit-learn 
+- **IoT**: MQTT, Withings API
 
-## 🎯 Future Goals
+## Features (Planned)
 
-- Build a live dashboard 🖥️ with real-time data visualization.
-- Implement basic machine learning models to predict stroke risk or detect irregular heartbeats.
-- Explore mobile 📱 and web integrations for remote health monitoring.
+- Real-time ECG and blood pressure monitoring
+- Historical health data tracking with calendar view
+- Daily wellness check-ins
+- Anomaly detection and predictive analytics
+- Family member access for remote monitoring
+
+## Project Goals
+
+Creating an affordable home health monitoring solution that combines IoT sensors with AI analysis to help families track and manage cardiovascular health.
 
 ---
 
- *More updates coming soon as I integrate the board with software* *components!* 
+*🚀 Work in progress. Building the future of connected healthcare.*
