@@ -1,6 +1,6 @@
 # 🩺 ECG-Board-Dev
 
-An IoT health monitoring system that combines a custom ECG board with blood pressure monitoring and AI/ML analysis for home healthcare. *Currently in development.*
+An IoT health monitoring system that combines a custom ECG board with blood pressure monitoring and AI/ML analysis for home healthcare.
 
 ## Overview
 
