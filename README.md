@@ -6,7 +6,7 @@ An IoT health monitoring system that combines a custom ECG board with blood pres
 
 Building a Raspberry Pi-based health dashboard that integrates:
 - Custom-built ECG board
-- Blood pressure monitoring (via Withings API)  
+- Blood pressure monitoring 
 - Real-time data visualization
 - Machine learning for health insights
 
